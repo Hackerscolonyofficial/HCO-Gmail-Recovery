@@ -42,20 +42,6 @@ bash main.sh
 
 ---
 
-## 📁 Output Example
-
-```text
-==== HCO Gmail Recovery Assistant - Saved Info ====
-Creation Date: Jan 2018
-Frequent Contacts: azhar123@gmail.com, friend@gmail.com
-Labels: Work, Personal
-Last Login Location: Mumbai, India
-Google Services Used: Drive, YouTube
-Other Notes: Old password was summer2019
-```
-
----
-
 ## ⚠️ Disclaimer
 
 This project is created **for educational and awareness purposes only**.  
