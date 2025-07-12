@@ -60,8 +60,6 @@ Other Notes: Old password was summer2019
 
 This project is created **for educational and awareness purposes only**.  
 It:
-- ❌ Does NOT bypass or hack Gmail
-- ❌ Does NOT guarantee account recovery
 - ✅ Only helps users prepare better for Google’s official recovery system
 
 Use this tool **only for your own accounts**.
